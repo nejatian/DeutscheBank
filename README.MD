@@ -86,5 +86,5 @@ The application uses custom exception handling to manage errors, such as file lo
 
 ---
 
-This project is maintained by **Your Name**. Feel free to contribute or report issues!
+This project is maintained by **Sarvenaz Nejatian**. Feel free to contribute or report issues!
 
